@@ -1,9 +1,9 @@
 
-[![MasterHead](https://jennifer-reif.medium.com/what-is-so-exciting-about-a-career-in-software-development-de0558bc11b9)
+[![MasterHead]("https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 <h1 align="center">Hi 👋, I'm Rahul Rao</h1>
 <h3 align="center">A passionate Software developer from India</h3>
  
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrao0375&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrao0375" /> </p>
 
