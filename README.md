@@ -1,4 +1,4 @@
-   [![MasterHead](https://github.com/user-attachments/assets/6be74132-500f-4a49-9f7c-a21693949a82)](https://github.com/Rahulrao0375)
+   [![MasterHead](https://github.com/user-attachments/assets/c9badd59-e92d-49a4-bc0b-b43623cf8272)](https://github.com/Rahulrao0375)
 
 <h1 align="center">Hi 👋, I'm Rahul Rao</h1>
 <h3 align="center">A passionate Software developer from India</h3>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **DSA, Javascript**
+- 💬 Ask me about **Data Structure & Algorithm, Javascript, MERN Stack Development**
 
 - 📫 How to reach me **rahulrao0375@gmail.com**
 
