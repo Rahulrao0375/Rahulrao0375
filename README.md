@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/7acbd7e4-e9e1-4514-98c5-500f2c4fe443)](https://github.com/Rahulrao0375)
+[![MasterHead](https://github.com/user-attachments/assets/7acbd7e4-e9e1-4514-98c5-500f2c4fe443)(https://github.com/user-attachments/assets/6be74132-500f-4a49-9f7c-a21693949a82)](https://github.com/Rahulrao0375)
 
 <h1 align="center">Hi 👋, I'm Rahul Rao</h1>
 <h3 align="center">A passionate Software developer from India</h3>
